@@ -10,5 +10,7 @@ Modules:
 - Deezer Account Checker
 - & More Private Modules (need any custom module? DM us on Telegram/Discord)
 
+----
+
 - Discord: https://discord.gg/vJQ87d2Wsr
 - Telegram: https://t.me/briskaio
